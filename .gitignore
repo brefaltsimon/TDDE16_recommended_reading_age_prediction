@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# files to exclude
+Images
+children_books.csv
+
 # C extensions
 *.so
 
